@@ -15,7 +15,7 @@ class Client
      */
     public function index ()
     {
-        echo "this is client";
+        echo "this is client1";
     }
 
 }
